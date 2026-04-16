@@ -1,130 +1,118 @@
-# Sola Tech — Custom Web Development Studio · Kyiv, Ukraine
+# Web Development Agency in Kyiv, Ukraine — Sola Tech
 
-> 🌐 **Website:** [sola-tech.dev](https://sola-tech.dev)
-> 📩 **Email:** [sola.development@gmail.com](mailto:sola.development@gmail.com)
-> 💬 **Telegram:** [@solatechdev](https://t.me/solatechdev)
-> 📞 **Phone:** [+380 75 585 1874](tel:+380755851874)
-> 🔗 **LinkedIn:** [Serhii — Front-End Engineer](https://www.linkedin.com/in/serhii-front-end-engineer/)
+**Sola Tech** is a custom web development agency based in Kyiv, Ukraine. We design and build digital products that solve real business problems — from high-converting landing pages and corporate websites to custom CRM systems, LMS platforms, e-commerce stores, and MVPs.
 
----
+**5+ years of experience · 49+ projects delivered · 98% client satisfaction · 24/7 support**
 
-## What We Do
-
-**Sola Tech** is a Kyiv-based web development studio that turns business ideas into digital products people actually want to use.
-
-We don't just build websites — we build tools that work for your business: generating leads, closing sales, training teams, and scaling operations. Every project starts with understanding the problem and ends with a product that solves it.
-
-**5+ years · 49+ projects delivered · 98% client satisfaction · 24/7 support · NDA on request**
+> 🌐 [sola-tech.dev](https://sola-tech.dev) · 📩 [sola.development@gmail.com](mailto:sola.development@gmail.com) · 💬 [@solatechdev](https://t.me/solatechdev) · 📞 [+380 75 585 1874](tel:+380755851874)
 
 ---
 
-## Services
+## Custom Web Development Services
 
-### 01 · Landing Pages
-Single-page sites engineered for one goal: conversion. We strip away everything that doesn't move the visitor toward action — clear copy, purposeful design, fast load times.
+We offer full-cycle web development services — from discovery and UI/UX design through engineering, launch, and ongoing support. Every engagement is tailored to the client's business logic, not retrofitted from a template.
 
-**From ₴20,000**
+### Landing Page Development — from ₴20,000
+Conversion-focused single-page websites built to turn visitors into clients. Clear messaging, intentional design, and fast load times — nothing that doesn't move the visitor toward action.
 
----
+### Corporate Website Development — from ₴60,000
+Professional corporate websites that communicate brand identity and build trust with clients and partners. Built for longevity, not for the portfolio.
 
-### 02 · Corporate Websites
-Your website is your most permanent sales pitch. We build corporate sites that make the right first impression, communicate your value clearly, and hold up under scrutiny.
+### Custom CRM Development — from ₴120,000
+Tailor-made CRM systems designed around how your team actually works — not how an off-the-shelf tool wants you to work. Sales pipelines, client data, automation, and reporting built to your exact business logic.
 
-**From ₴60,000**
+### LMS Platform Development — price on request
+Learning management systems for businesses and educators: course delivery, progress tracking, quiz and testing modules, user role management, and analytics. Built to scale with your audience.
 
----
+### E-Commerce Website Development — price on request
+Scalable online stores with custom admin panels, payment gateway integrations, inventory management, and conversion-optimized UX. Solid architecture — no plugin patchwork.
 
-### 03 · Custom CRM Systems
-Off-the-shelf CRMs force your team to adapt to the software. We flip that — building CRMs that adapt to how your team actually works. Sales pipelines, client data, automation — all on your terms.
-
-**From ₴120,000**
-
----
-
-### 04 · LMS Platforms
-Whether you're selling courses or training employees, we build learning platforms that handle the complexity: content delivery, progress tracking, quizzes, user roles, and analytics.
-
-**Price on request**
+### MVP Development for Startups — price on request
+Minimum viable products built lean and shipped fast. We help founders validate assumptions with real users before committing to full-scale engineering — reducing risk and accelerating time to feedback.
 
 ---
 
-### 05 · E-Commerce Development
-Online stores that are fast, secure, and built to scale. Custom admin panels, payment integrations, inventory management — no plugin patchwork, just solid architecture.
+## Our Web Development Process
 
-**Price on request**
-
----
-
-### 06 · MVP Development
-The fastest path from idea to evidence. We help startups and founders validate assumptions with a working product — built lean, shipped fast, ready for real users and real feedback.
-
-**Price on request**
-
----
-
-## How We Work
-
-No black boxes. Our process is structured enough to be predictable and flexible enough to adapt:
-
-1. **Discovery** — We map your goals, constraints, and competitive landscape before writing a single line of code
-2. **Design** — UI/UX prototypes grounded in user behavior and your brand identity
-3. **Development** — Clean, maintainable code. No shortcuts that come back to haunt you
-4. **Launch** — QA, deployment, and a go-live that doesn't feel like a gamble
-5. **Support** — We stay in the picture: maintenance, improvements, and scaling as your needs grow
+1. **Discovery** — Requirements gathering, competitor research, and technical specification before a single line of code is written
+2. **UI/UX Design** — Wireframes, prototypes, and visual design grounded in user behavior and brand identity
+3. **Development** — Clean, maintainable code with proper architecture, third-party integrations, and backend setup
+4. **Launch** — QA testing, performance audits, server deployment, and go-live
+5. **Ongoing Support** — Post-launch maintenance, feature development, and scaling as the product grows
 
 ---
 
 ## Technology Stack
 
-| Technology | Role |
+We build with a modern, production-proven stack chosen for performance, developer experience, and long-term maintainability:
+
+| Technology | Purpose |
 |---|---|
-| **React / Next.js** | Performant, SEO-friendly frontend |
-| **TypeScript** | Type-safe, maintainable codebase |
-| **Node.js** | Fast, scalable server-side logic |
-| **PostgreSQL** | Reliable relational data storage |
-| **GraphQL** | Precise, efficient data fetching |
-| **Tailwind CSS** | Consistent, utility-first styling |
-| **React Native** | Cross-platform iOS & Android apps |
+| **React / Next.js** | SEO-friendly, high-performance frontend interfaces |
+| **TypeScript** | Type-safe, maintainable codebase at any scale |
+| **Node.js** | Fast, non-blocking server-side logic and APIs |
+| **PostgreSQL** | Reliable, structured relational data storage |
+| **GraphQL** | Efficient, on-demand data fetching |
+| **Tailwind CSS** | Consistent, utility-first styling system |
+| **React Native** | Cross-platform mobile apps for iOS and Android |
 
 ---
 
-## Selected Work
+## Why Businesses Choose Sola Tech
 
-49+ projects across industries including SaaS, education, retail, and professional services.
-→ [sola-tech.dev/#portfolio](https://sola-tech.dev/#portfolio)
-
----
-
-## Why Sola Tech
-
-- ✅ Full-cycle ownership — strategy, design, development, launch, support
-- ✅ 49+ completed projects across diverse industries
-- ✅ 98% client satisfaction rate
-- ✅ 5+ years of hands-on experience
-- ✅ 24/7 post-launch support
-- ✅ NDA available on request
-- ✅ Modern, proven stack — React, TypeScript, Node.js, PostgreSQL, React Native
-- ✅ Kyiv-based, working with clients globally
+- ✅ **Full-cycle ownership** — one team from strategy through post-launch support
+- ✅ **49+ completed projects** across SaaS, education, retail, and professional services
+- ✅ **98% client satisfaction rate**
+- ✅ **5+ years** building production web applications
+- ✅ **24/7 post-launch support** for all delivered products
+- ✅ **NDA available** on request — your ideas stay protected
+- ✅ Based in **Kyiv, Ukraine**, working with clients across Europe and globally
 
 ---
 
-## Keywords
+## Frequently Asked Questions
 
-`web development Ukraine` · `custom website development Kyiv` · `веб розробка Київ` · `розробка сайтів Україна` · `landing page development` · `corporate website Ukraine` · `CRM system development` · `LMS platform development` · `e-commerce development Ukraine` · `MVP development studio` · `React developer Ukraine` · `Next.js developer Kyiv` · `Node.js backend developer` · `TypeScript developer Ukraine` · `React Native developer` · `web studio Kyiv` · `веб студія Київ` · `розробка лендінгу` · `корпоративний сайт` · `розробка CRM` · `розробка інтернет-магазину` · `MVP розробка` · `веб розробник Україна` · `digital product development` · `full-cycle web development`
+**How much does a landing page cost in Ukraine?**
+Landing page development at Sola Tech starts from ₴20,000. Final pricing depends on design complexity, number of sections, animation requirements, and third-party integrations.
+
+**How much does a corporate website cost?**
+Corporate website development starts from ₴60,000. Projects with a custom design system, CMS integration, or multilingual support are priced individually.
+
+**What is the difference between a custom CRM and an off-the-shelf CRM?**
+Off-the-shelf CRMs (Salesforce, HubSpot, Pipedrive) are built for the average business — they cover common use cases but require your team to work around their limitations. A custom CRM is engineered around your specific sales process, data model, and team workflows, which typically results in higher adoption and fewer workarounds.
+
+**How long does MVP development take?**
+A focused MVP with a well-defined scope typically takes 6–12 weeks from kickoff to launch. We prioritize the features that test your core hypothesis and cut everything that doesn't.
+
+**Do you work under NDA?**
+Yes. We sign NDA agreements on request before any project details are shared.
+
+**What technologies do you use for web development?**
+Our core stack is React / Next.js, TypeScript, Node.js, PostgreSQL, and GraphQL — with Tailwind CSS for styling and React Native for mobile. We choose tools based on the project's requirements, not habit.
+
+**Do you offer support after the website is launched?**
+Yes — all delivered projects include 24/7 post-launch support. We handle bug fixes, performance monitoring, and feature updates as your product evolves.
 
 ---
 
-## Start a Project
+## Start Your Project
 
-Have an idea, a problem, or just a deadline?
+Have a project in mind? Let's scope it out.
 
 - 🌐 [sola-tech.dev](https://sola-tech.dev)
 - 📩 [sola.development@gmail.com](mailto:sola.development@gmail.com)
 - 💬 Telegram: [@solatechdev](https://t.me/solatechdev)
 - 📞 [+380 75 585 1874](tel:+380755851874)
 - 💬 [WhatsApp](https://wa.me/380755851874)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/serhii-front-end-engineer/)
 - 📍 Kyiv, Ukraine
 
 ---
 
-© 2026 Sola Web Studio. All rights reserved.
+### Keywords
+
+`web development agency Ukraine` · `custom website development Kyiv` · `веб розробка Київ` · `розробка сайтів Україна` · `landing page development Ukraine` · `corporate website development` · `custom CRM development` · `LMS platform development` · `e-commerce website development` · `MVP development for startups` · `React Next.js developer Ukraine` · `Node.js developer Kyiv` · `TypeScript developer Ukraine` · `React Native developer` · `full-cycle web development` · `web studio Kyiv` · `веб студія Київ` · `розробка лендінгу` · `корпоративний сайт` · `розробка CRM` · `розробка інтернет-магазину` · `MVP розробка стартап` · `веб розробник Україна`
+
+---
+
+© 2026 Sola Web Studio · Kyiv, Ukraine · All rights reserved.
